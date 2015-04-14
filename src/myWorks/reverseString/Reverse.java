@@ -23,7 +23,7 @@ public class Reverse
         if(isPalyndrome(rv.text)){
             System.out.print("Введенная строка является палиндромом");
         }else{
-            System.out.print("Введенная строка не является палиндромом");
+            System.out.print("Введенная строка не является палиндромом!");
         }
         
     }
